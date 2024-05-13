@@ -1,4 +1,5 @@
 Bikes Purchase Report
+
 Date Source: Unstructured CSV files
 
 Our latest report delves into the purchasing data of bikes, offering comprehensive insights into the trends and patterns of 2023. Here's what the report analyzes:
